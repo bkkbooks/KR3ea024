@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ea024/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝內經·靈樞
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea024.xml
+hash: sha256:77675a0e1b49d466cc1ef95fe4b4db795120acb4ca27f02af1f7b3af8886fcd2

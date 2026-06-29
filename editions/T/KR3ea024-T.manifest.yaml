@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ea024/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ea024/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝內經·靈樞
+  identifiers:
+    krp: KR3ea024
+  tags:
+    kr-categories: KR3ea
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea024.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ea024_001-T.yaml, hash: 'sha256:77675a0e1b49d466cc1ef95fe4b4db795120acb4ca27f02af1f7b3af8886fcd2'}
+table_of_contents: []
+hash: sha256:99f227bbed414bb4445c226228855a69df805a7ebe3410f67af36a7a6bb7bae8
