@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea024/v1
 canonical_location: https://kanripo.org/bkk/KR3ea024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 黃帝內經·靈樞
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3ea024_001.yaml
     hash: sha256:77675a0e1b49d466cc1ef95fe4b4db795120acb4ca27f02af1f7b3af8886fcd2
 table_of_contents: []
-hash: sha256:5ada3c77261022b531c13de73709a3e743a93e2b325ce82d6482af5194b6d963
+hash: sha256:9ed8f1ee9eac07a2c7dbb6909c25778eeefe0694f9ad8b0d8f3bdb243cfe565d
